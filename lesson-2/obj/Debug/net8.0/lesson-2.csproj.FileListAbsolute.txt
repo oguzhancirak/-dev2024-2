@@ -1,0 +1,14 @@
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\bin\Debug\net8.0\lesson-2.exe
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\bin\Debug\net8.0\lesson-2.deps.json
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\bin\Debug\net8.0\lesson-2.runtimeconfig.json
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\bin\Debug\net8.0\lesson-2.dll
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\bin\Debug\net8.0\lesson-2.pdb
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.AssemblyInfoInputs.cache
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.AssemblyInfo.cs
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.csproj.CoreCompileInputs.cache
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.dll
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\refint\lesson-2.dll
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.pdb
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\lesson-2.genruntimeconfig.cache
+C:\Users\yakam\OneDrive\Masaüstü\Udemy-MUSTAFA YÜCEDAĞ DERSLERİ\lesson-2\obj\Debug\net8.0\ref\lesson-2.dll
